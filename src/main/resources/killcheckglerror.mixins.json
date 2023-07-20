@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "dev.siro256.forgemod.killcheckglerror.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "killcheckglerror.refmap.json",
+  "mixins": [
+    "MixinMinecraft"
+  ],
+  "client": [],
+  "minVersion": "0.8"
+}
